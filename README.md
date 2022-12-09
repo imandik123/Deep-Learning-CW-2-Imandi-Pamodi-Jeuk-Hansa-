@@ -6,3 +6,8 @@
 
 #Method 1 - Imandi 
 #Method 2 - Pamodi
+
+#The Autoencoder was done using two models and selected one as final model.
+
+#Model 1 - Jenuk
+#Model 2 - Hansa
